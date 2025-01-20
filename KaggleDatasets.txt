@@ -1,0 +1,3 @@
+TrialsCSV - The Actual Trials CSV
+EmbeddingsTrials - All the embeddings for each trial using PubMedBert
+ErnieHealthCSV - All the embeddings for each trial using ErnieHealth
