@@ -1,0 +1,47 @@
+Final Results (Similarity = Jaccard Similarity)
+
+NCT ID: NCT00385736
+
+Recommendations:
+
+1. Trial ID: NCT03029143, Similarity: 0.6250
+2. Trial ID: NCT00408629, Similarity: 0.5000
+3. Trial ID: NCT01482884, Similarity: 0.5000
+4. Trial ID: NCT02289417, Similarity: 0.5000
+5. Trial ID: NCT05731128, Similarity: 0.5000
+6. Trial ID: NCT00659802, Similarity: 0.4444
+7. Trial ID: NCT01620255, Similarity: 0.4444
+8. Trial ID: NCT00488631, Similarity: 0.4444
+9. Trial ID: NCT02065557, Similarity: 0.4444
+10. Trial ID: NCT03221036, Similarity: 0.4000
+
+
+NCT ID: NCT00386607
+
+Recommendations:
+
+1. Trial ID: NCT00402103, Similarity: 0.3000
+2. Trial ID: NCT00923091, Similarity: 0.2500
+3. Trial ID: NCT00281580, Similarity: 0.2222
+4. Trial ID: NCT01456169, Similarity: 0.2000
+5. Trial ID: NCT00841672, Similarity: 0.2000
+6. Trial ID: NCT00698646, Similarity: 0.1905
+7. Trial ID: NCT00435162, Similarity: 0.1818
+8. Trial ID: NCT01204398, Similarity: 0.1818
+9. Trial ID: NCT00151775, Similarity: 0.1818
+10. Trial ID: NCT06174766, Similarity: 0.1818
+
+NCT ID: NCT03518073
+
+Recommendations:
+
+1. Trial ID: NCT00762411, Similarity: 0.4286
+2. Trial ID: NCT00477659, Similarity: 0.4286
+3. Trial ID: NCT00428090, Similarity: 0.4286
+4. Trial ID: NCT02754830, Similarity: 0.4286
+5. Trial ID: NCT00843518, Similarity: 0.4000
+6. Trial ID: NCT05310071, Similarity: 0.3333
+7. Trial ID: NCT01849055, Similarity: 0.3333
+8. Trial ID: NCT04994483, Similarity: 0.2857
+9. Trial ID: NCT02091362, Similarity: 0.2857
+10. Trial ID: NCT02670083, Similarity: 0.2857
